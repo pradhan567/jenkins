@@ -4,7 +4,7 @@ pipeline {
      stage ('Hello World') {
          steps {
            echo 'Hello Manas'
-           echo 'Issue resolved'
+           echo 'Issue resolved and submitted'
         }
      } 
   }
